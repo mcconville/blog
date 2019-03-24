@@ -4,12 +4,12 @@ title: bringing this back to life ...
 ---
 
 <div class="content">
-<div>version 0.0.2</div>
+<div>version 0.0.3</div>
   <div class="related">
     <ul>
       {% for post in site.posts %}
       <li>
-	<span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+	<span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="blog/{{ post.url }}">{{ post.title }}</a>
       </li>
       {% endfor %}
     </ul>
