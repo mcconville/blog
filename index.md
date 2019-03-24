@@ -1,12 +1,8 @@
 ---
 layout: layout
-title: bringing this back to life ...
 ---
 
-<!DOCTYPE html>
-
 <html lang="en">
-
 <head>
 
   <!-- Basic Page Needs
@@ -70,28 +66,20 @@ title: bringing this back to life ...
         <a class="deselected end" href="pages/about.html">about</a>
       </div>
     </div>
-    <!-- <div class="tear"></div> -->
   </div>
   <div class="control">
-
-<div class="content">
-<div>version 0.1.0</div>
-  <div class="related">
-    <ul>
-      {% for post in site.posts %}
-      <li>
-	<span>{{ post.date | date: "%B %e, %Y" }}</span></span><a href="{{ post.url | prepend:'/blog' }}">{{ post.title }}</a>
-      </li>
-      {% endfor %}
-    </ul>
+    <div class="content">
+      <div class="related">
+        <ul>
+          {% for post in site.posts %}
+          <li>
+    	     <span>{{ post.date | date: "%B %e, %Y" }}</span>
+           <a href="{{ post.url | prepend:'/blog' }}">{{ post.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
   </div>
-</div>
-
-</div>
-
-  <!-- End Document
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-
 </body>
-
 </html>
