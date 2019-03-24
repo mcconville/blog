@@ -17,15 +17,22 @@ body {
 .blogline{
   list-style: none;
   margin: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  /* width: 812px; */
 }
 
 .bloglink{
-
+  color:274255;
 }
 
 .blogdate{
-  padding-right:20px;
-  color:#7997a1;
+  color:#599ec4;
+}
+
+.related{
+  margin-top: 50px;
 }
 
 .intro {
