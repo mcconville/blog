@@ -12,6 +12,22 @@ body {
   width: 100%;
 }
 
+/* blog */
+
+.blogline{
+  list-style: none;
+  margin: 10px;
+}
+
+.bloglink{
+
+}
+
+.blogdate{
+  padding-right:20px;
+  color:#7997a1;
+}
+
 .intro {
   width: 808px;
   height: auto;

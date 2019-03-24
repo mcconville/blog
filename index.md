@@ -6,9 +6,9 @@ layout: layout
     <div class="related">
       <ul>
         {% for post in site.posts %}
-        <li>
-    	    <span>{{ post.date | date: "%B %e, %Y" }}</span>
-          <a href="{{ post.url | prepend:'/blog' }}">{{ post.title }}</a>
+        <li class="blogline">
+    	    <span class="blogdate">{{ post.date | date: "%B %e, %Y" }}</span>
+          <a class="bloglink" href="{{ post.url | prepend:'/blog' }}">{{ post.title }}</a>
         </li>
         {% endfor %}
       </ul>
