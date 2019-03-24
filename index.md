@@ -4,7 +4,7 @@ title: bringing this back to life ...
 ---
 
 <div class="content">
-<div>version 0.0.1</div>
+<div>version 0.0.2</div>
   <div class="related">
     <ul>
       {% for post in site.posts %}
