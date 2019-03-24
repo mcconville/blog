@@ -30,7 +30,7 @@ layout: page
         </div>
     </div>
     <div class="site">
-        
+
         <ul class="posts">
               {% for post in site.posts %}
                 <li class="post"><a class="bloglink" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><span class="date">{{ post.date | date_to_string }}</span></li>
@@ -48,4 +48,3 @@ layout: page
 </body>
 
 </html>
-
