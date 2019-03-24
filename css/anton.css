@@ -14,6 +14,11 @@ body {
 
 /* blog */
 
+.bloglines{
+  margin:0;
+  padding:0;
+}
+
 .blogline{
   list-style: none;
   margin: 10px;
@@ -23,12 +28,17 @@ body {
   /* width: 812px; */
 }
 
+a .blogline{
+  color:#274255;
+}
+
 .bloglink{
-  color:274255;
+  color:#274255;
 }
 
 .blogdate{
   color:#599ec4;
+  width: 160px;
 }
 
 .related{
