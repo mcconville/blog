@@ -2,7 +2,7 @@ auto: true
 markdown: rdiscount
 rdiscount extensions: [smart]
 
-baseurl: "blog"
+# baseurl: "blog"
 
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
