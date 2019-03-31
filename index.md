@@ -2,15 +2,18 @@
 layout: layout
 ---
 
-  <div class="content">
-    <div class="related">
-      <ul>
-        {% for post in site.posts %}
-        <li class="blogline">
-    	    <span class="blogdate">{{ post.date | date: "%B %e, %Y" }}</span>
-          <a class="bloglink" href="{{ post.url | prepend:'/blog' }}">{{ post.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+    {% for year in postsByYear %}
+      <h1>{{ year.name }}</h1>
+      {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+
+      {% for month in postsByMonth %}
+        <h2>{{ month.name }}</h2>
+        <ul>
+          {% for post in month.items %}
+            <li><a href="{{ post.url }}">{{ post.title }}-{{ post.date }}</a></li>
+          {% endfor %}
+        </ul>
+
+      {% endfor %}
+    {% endfor %}
