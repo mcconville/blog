@@ -13,7 +13,7 @@ layout: layout
 
 
         <div class="yearblock">
-          <div class="year">{{ year.name }</div>
+          <div class="year">{{ year.name }}</div>
 
 
 
