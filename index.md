@@ -30,7 +30,7 @@ layout: layout
         <div class="divider"></div>
         <div class="postblock">
           <div class="daylabel">22</div>
-          <div class="posttitle">a href="{{ post.url | prepend:'/blog' }}">{{ post.title }}</a></div>
+          <div class="posttitle"><a href="{{ post.url | prepend:'/blog' }}">{{ post.title }}</a></div>
         </div>
           {% endfor %}
 
