@@ -38,6 +38,16 @@
   font-size: 12px;
 }
 
+.blogcontent {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row;
+  flex-flow: row;
+  max-width: 900px;
+  margin: auto;
+}
+
+
 .postblock {
   display: flex;
   flex-direction: row;
