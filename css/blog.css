@@ -1,0 +1,70 @@
+.timeline{
+display:flex;
+flex-direction: column;
+margin:20px;
+color: #385061;
+}
+
+.year{
+margin:20px;
+margin-left: 25px;
+font-size: 14px;
+}
+
+.monthblock{
+display: flex;
+flex-direction: row;
+background:#fcfaf8;
+border-radius: 4px;
+width:140px;
+height:30px;
+align-content: center;
+align-items: center;
+margin-left: 20px;
+}
+
+.monthdot{
+  height:18px;
+  width: 18px;
+  border-radius: 20px;
+  background: #385061;
+  margin-left: 12px;
+  margin-right:10px;
+}
+
+.monthlabel{
+font-size: 12px;
+}
+
+.postblock{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+}
+
+.posttitle{
+  font-size: 12px;
+  margin-left:10px;
+}
+
+.daylabel{
+  height: 20px;
+  width: 20px;
+  background:#fcfaf8;
+  border-radius: 20px;
+  font-size: 11px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-left: 31px;
+
+}
+
+.divider{
+height:20px;
+width:20px;
+margin-left:20px;
+border-right:1px solid #385061;
+}

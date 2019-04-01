@@ -2,18 +2,43 @@
 layout: layout
 ---
 
-{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-    {% for year in postsByYear %}
-      <h1>{{ year.name }}</h1>
-      {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
-      {% for month in postsByMonth %}
-        <h2>{{ month.name }}</h2>
-        <ul>
-          {% for post in month.items %}
-            <li><a href="{{ post.url }}">{{ post.title }}-{{ post.date }}</a></li>
+
+
+<div class="content">
+<div class="timeline">
+  {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+      {% for year in postsByYear %}
+
+
+
+        <div class="yearblock">
+          <div class="year">{{ year.name }</div>
+
+
+
+        {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+
+        {% for month in postsByMonth %}
+
+        <div class="monthblock">
+          <div class="monthdot"></div>
+          <div class="monthlabel">{{ month.name }}</div>
+        </div>
+
+  {% for post in month.items %}
+        <div class="divider"></div>
+        <div class="postblock">
+          <div class="daylabel">22</div>
+          <div class="posttitle">a href="{{ post.url | prepend:'/blog' }}">{{ post.title }}</a></div>
+        </div>
           {% endfor %}
-        </ul>
 
+
+        {% endfor %}
       {% endfor %}
-    {% endfor %}
+
+      </div>
+      </div>
+
+      </div>
