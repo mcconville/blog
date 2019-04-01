@@ -1,57 +1,59 @@
-.timeline{
-display:flex;
-flex-direction: column;
-margin:20px;
-color: #385061;
+.timeline {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  color: #385061;
 }
 
-.year{
-margin:20px;
-margin-left: 25px;
-font-size: 14px;
+.year {
+  margin-top: 40px;
+  margin-bottom: 10px;
+  margin-left: 25px;
+  font-weight: bold;
+  font-size: 15px;
 }
 
-.monthblock{
-display: flex;
-flex-direction: row;
-background:#fcfaf8;
-border-radius: 4px;
-width:140px;
-height:30px;
-align-content: center;
-align-items: center;
-margin-left: 20px;
+.monthblock {
+  display: flex;
+  flex-direction: row;
+  background: #fcfaf8;
+  border-radius: 4px;
+  width: 100px;
+  height: 30px;
+  align-content: center;
+  align-items: center;
+  margin-left: 20px;
 }
 
-.monthdot{
-  height:18px;
-  width: 18px;
+.monthdot {
+  height: 14px;
+  width: 14px;
   border-radius: 20px;
   background: #385061;
-  margin-left: 12px;
-  margin-right:10px;
+  margin-left: 13px;
+  margin-right: 10px;
 }
 
-.monthlabel{
-font-size: 12px;
+.monthlabel {
+  font-size: 12px;
 }
 
-.postblock{
+.postblock {
   display: flex;
   flex-direction: row;
   align-items: center;
   align-content: center;
 }
 
-.posttitle{
+.posttitle {
   font-size: 12px;
-  margin-left:10px;
+  margin-left: 10px;
 }
 
-.daylabel{
+.daylabel {
   height: 20px;
   width: 20px;
-  background:#fcfaf8;
+  background: #fcfaf8;
   border-radius: 20px;
   font-size: 11px;
   display: flex;
@@ -59,16 +61,15 @@ font-size: 12px;
   align-items: center;
   justify-content: center;
   margin-left: 31px;
-
 }
 
-.postlink{
-      color: #354E5F;
+.postlink {
+  color: #354E5F;
 }
 
-.divider{
-height:20px;
-width:20px;
-margin-left:20px;
-border-right:1px solid #385061;
+.divider {
+  height: 20px;
+  width: 20px;
+  margin-left: 20px;
+  border-right: 1px solid #385061;
 }
