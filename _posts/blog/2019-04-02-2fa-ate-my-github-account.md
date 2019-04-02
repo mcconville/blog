@@ -7,13 +7,13 @@ tags : [tech]
 
 Little did I know that excitedly switching to a new iPhone in January would result in my [antonmc](https://github.com/antonmc) GitHub account entering some kind of limbo.
 
-The problem was 2fa ( two factor authentication ). I had been using the Google Authenticator app to handle my 2fa needs, but I hadn't set up a backup strategy for it, nor saved the security string that GitHub recommended as a backup. I had believed it would all magically be handled in 'the cloud'.
+The problem was 2fa ( two factor authentication ). I had been using the Google Authenticator app to handle my 2fa needs, but I hadn't set up a backup strategy for it, nor saved the security string that GitHub recommended as a backup. I had believed it would all magically be handled in 'the cloud' when I switched to a new phone.
 
-As I continued to make my new iPhone home, it became uncomfortably clear that Authenticator's two factor app relationships didn't just carry over. It locked me out of services at work too, though that was a little easier to resolve. A little easier, but not without a degree of embarrassment.
+As I continued to acquaint myself with the new iPhone, it became uncomfortably clear that Authenticator's two factor app relationships didn't just carry over. This locked me out of services at work too, though that was a little easier to resolve. A little easier, but not without a degree of embarrassment.
 
-The net result is that although I know my GitHub username and password, I can't complete logging in. I tried reasoning with GitHub support, but their policy is that the buck stops with two factor authentication. I can no longer manage my GitHub account, including my previous website, that was hosted on GitHub Pages.
+The net result is that although I know my GitHub username and password, I can't complete logging in. I tried reasoning with GitHub support, but their policy is that the buck stops with two factor authentication. I can no longer log in to manage my GitHub account, including my previous website, that was hosted on GitHub Pages. It is kind of dormant, although somehow GitHub Desktop is still able to connect to it.
 
-If you've landed at this blogpost hoping for answers, because you've similarly locked yourself out of your GitHub account, I unfortunately don't have a magic cure. Personally, I waded through a period of unhappy denial about my account, before realizing that I needed to get on with just rebooting ...
+If you've landed at this blogpost hoping for answers, because you've similarly locked yourself out of your GitHub account, I unfortunately don't have a magic cure. Personally, I waded through a period of unhappy denial about my account, before realizing that I needed to get on with just creating a new GitHub account and rebooting ...
 
 #### A kick up the backside ...
 
