@@ -3,9 +3,11 @@ layout: layout
 ---
 
 <div class="blogcontent">
+<div class="timelineheader">Timeline</div>
   <div class="timeline">
   {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
       {% for year in postsByYear %}
+
         <div class="yearblock">
           <div class="year">{{ year.name }}</div>
           {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}

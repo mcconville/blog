@@ -100,6 +100,12 @@
   color: #354E5F;
 }
 
+.timelineheader{
+  margin-left: 20px;
+margin-top: 30px;
+font-weight: bold;
+}
+
 .blogposstitle{
   font-weight: bold;
   font-size: 15px;
