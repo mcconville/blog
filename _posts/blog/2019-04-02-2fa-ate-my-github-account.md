@@ -7,11 +7,13 @@ tags : [tech]
 
 Little did I know that excitedly switching to a new iPhone in January would result in my [antonmc](https://github.com/antonmc) GitHub account entering some kind of limbo.
 
-The problem was 2fa ( two factor authentication ). I had been using the Google Authenticator app to handle my 2fa needs, but I hadn't set up a backup strategy for it, nor saved the security string that GitHub recommended as a backup. I had believed it would all magically be handled in 'the cloud', but as I continued to make my new iPhone home, it became uncomfortably clear that Authenticator's two factor app relationships didn't just carry over. It locked me out of services at work too, though that was a little easier to resolve. A little easier, but not without a degree of embarrassment.
+The problem was 2fa ( two factor authentication ). I had been using the Google Authenticator app to handle my 2fa needs, but I hadn't set up a backup strategy for it, nor saved the security string that GitHub recommended as a backup. I had believed it would all magically be handled in 'the cloud'.
+
+As I continued to make my new iPhone home, it became uncomfortably clear that Authenticator's two factor app relationships didn't just carry over. It locked me out of services at work too, though that was a little easier to resolve. A little easier, but not without a degree of embarrassment.
 
 The net result is that although I know my GitHub username and password, I can't complete logging in. I tried reasoning with GitHub support, but their policy is that the buck stops with two factor authentication. I can no longer manage my GitHub account, including my previous website, that was hosted on GitHub Pages.
 
-#### a kick up the backside
+#### A kick up the backside ...
 
 If you've landed at this blogpost because you've similarly locked yourself out of your GitHub account, I don't have a magic cure unfortunately. Personally, I waded through a period of denial about my account, before realizing that I needed to just reboot.
 
