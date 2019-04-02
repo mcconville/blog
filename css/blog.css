@@ -100,9 +100,20 @@
   color: #354E5F;
 }
 
+.blogposstitle{
+  font-weight: bold;
+  font-size: 15px;
+}
+
 .divider {
   height: 20px;
   width: 20px;
   margin-left: 20px;
   border-right: 1px solid #385061;
+}
+
+#h3{
+  font-size: 14px;
+margin-top: 30px;
+font-weight: bold;
 }
