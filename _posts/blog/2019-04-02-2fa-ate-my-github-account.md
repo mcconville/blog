@@ -13,9 +13,9 @@ As I continued to make my new iPhone home, it became uncomfortably clear that Au
 
 The net result is that although I know my GitHub username and password, I can't complete logging in. I tried reasoning with GitHub support, but their policy is that the buck stops with two factor authentication. I can no longer manage my GitHub account, including my previous website, that was hosted on GitHub Pages.
 
-#### A kick up the backside ...
+If you've landed at this blogpost hoping for answers, because you've similarly locked yourself out of your GitHub account, I sorry that I don't have a magic cure. Personally, I waded through a period of denial about my account, before realizing that I needed to get on with rebooting ...
 
-If you've landed at this blogpost because you've similarly locked yourself out of your GitHub account, I don't have a magic cure unfortunately. Personally, I waded through a period of denial about my account, before realizing that I needed to just reboot.
+#### A kick up the backside ...
 
 Although losing access is a nuisance, it has given me a much needed kick up the backside to become better organized, to tidy up my repos, and be more careful with future project plans. It has felt a bit like a new beginning, and I'm starting to feel grateful my website and blog are reviving.
 
