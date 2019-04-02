@@ -67,7 +67,7 @@
     <div class="postwrapper">
       <div class="post" id="post">
         <div class="postitle"> {{ page.title }} </div>
-        <div class="postdate"> {{ page.date }} </div>
+        <div class="postdate"> {{ page.date | date: "%b %d, %y" }} </div>
         {{ content }}
       </div>
     </div>
