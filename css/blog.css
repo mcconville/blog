@@ -55,11 +55,11 @@
 
 .post {
   background: #fcfaf8;
-    padding: 20px;
-    color: #274255;
-    font-size: 14px;
-    line-height: 20px;
-    word-spacing: 2px;
+  padding: 20px;
+  color: #274255;
+  font-size: 14px;
+  line-height: 20px;
+  word-spacing: 2px;
 }
 
 .postblock {
@@ -71,8 +71,8 @@
 
 .posttitle {
   margin-left: 10px;
-      font-weight: bold;
-      font-size: 13px;
+  font-weight: bold;
+  font-size: 13px;
 }
 
 .postdate {
@@ -83,32 +83,32 @@
 
 .daylabel {
   height: 22px;
-    width: 22px;
-    background: #fcfaf8;
-    border-radius: 20px;
-    font-size: 12px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    margin-left: 9px;
+  width: 22px;
+  background: #fcfaf8;
+  border-radius: 20px;
+  font-size: 12px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-left: 9px;
 }
 
 .postlink {
   color: #354E5F;
 }
 
-.timelineheader{
-margin-top: 30px;
-font-weight: bold;
+.timelineheader {
+  margin-top: 50px;
+  font-weight: bold;
 }
 
-.blogposstitle{
+.blogposstitle {
   font-weight: bold;
   font-size: 15px;
 }
 
-.blogindex{
+.blogindex {
   min-width: 300px;
 }
 
@@ -118,8 +118,8 @@ font-weight: bold;
   border-right: 1px solid #385061;
 }
 
-#h3{
+#h3 {
   font-size: 14px;
-margin-top: 30px;
-font-weight: bold;
+  margin-top: 30px;
+  font-weight: bold;
 }
