@@ -65,13 +65,6 @@
   <div class="control">
     {{ content }}
   </div>
-  <div>
-    {% for post in site.posts limit:1 %}
-
-    <div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
-
-    {% endfor %}
-  </div>
   </div>
 </body>
 
