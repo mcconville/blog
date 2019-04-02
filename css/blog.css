@@ -1,7 +1,6 @@
 .timeline {
   display: flex;
   flex-direction: column;
-  margin: 20px;
   color: #385061;
 }
 

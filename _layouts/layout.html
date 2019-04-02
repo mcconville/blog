@@ -69,7 +69,16 @@
       </div>
       <div class="recentposts">
         {% for post in site.posts limit:1 %}
-        <div>{{ post.content }}</div>
+        
+
+          <div class="postwrapper">
+            <div class="post" id="post">
+              <div class="blogposttitle"> {{ post.title }} </div>
+              <div class="postdate"> {{ post.date | date: "%B %d, %Y" }} </div>
+              {{ post.content }}
+            </div>
+          </div>
+
         {% endfor %}
       </div>
     </div>
