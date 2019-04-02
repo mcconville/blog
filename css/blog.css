@@ -48,16 +48,18 @@
   width: 840px;
 }
 
-.postwrapper{
+.postwrapper {
   background: white;
   border-radius: 4px;
   padding: 20px;
   margin-top: 50px;
 }
 
-.post{
+.post {
   background: #fcfaf8;
-  margin:20px;
+  padding: 20px;
+  color: #274255;
+  font-size: 14px;
 }
 
 .postblock {
@@ -68,8 +70,15 @@
 }
 
 .posttitle {
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.postdate {
+  color: #D85C26;
   font-size: 12px;
-  margin-left: 10px;
+  margin-bottom: 30px;
 }
 
 .daylabel {
