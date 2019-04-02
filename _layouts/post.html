@@ -65,8 +65,9 @@
 
   <div class="blogcontent">
     <div class="postwrapper">
-      <div id="post">
-        <h1>{{ post.title }}</h1>
+      <div class="post" id="post">
+        <div class="postitle">{{ post.title }}</div>
+        <div class="postdate">{{ post.date }}</div>
         {{ content }}
       </div>
     </div>

@@ -45,17 +45,19 @@
   flex-flow: row;
   max-width: 840px;
   margin: auto;
-  width:840px;
+  width: 840px;
 }
 
 .postwrapper{
   background: white;
   border-radius: 4px;
-  padding: 10px;
+  padding: 20px;
+  margin-top: 50px;
 }
 
 .post{
   background: #fcfaf8;
+  margin:20px;
 }
 
 .postblock {
