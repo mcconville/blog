@@ -18,7 +18,7 @@
   background: #fcfaf8;
   border-radius: 4px;
   width: 100px;
-  height: 24px;
+  height: 22px;
   align-content: center;
   align-items: center;
 }
@@ -33,7 +33,7 @@
 }
 
 .monthlabel {
-  font-size: 13px;
+  font-size: 12px;
 }
 
 .blogcontent {
@@ -109,7 +109,7 @@ font-weight: bold;
 }
 
 .blogindex{
-  min-width: 380px;
+  min-width: 300px;
 }
 
 .divider {

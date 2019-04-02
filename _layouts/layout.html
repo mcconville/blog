@@ -57,7 +57,8 @@
         </div>
       </a>
       <div class="navigation">
-        <a class="selected" href="index.html">projects</a>
+        <a class="deselected" href="index.html">projects</a>
+        <a class="selected" href=".">blog</a>
         <a class="deselected end" href="pages/about.html">about</a>
       </div>
     </div>
@@ -69,7 +70,7 @@
       </div>
       <div class="recentposts">
         {% for post in site.posts limit:1 %}
-        
+
 
           <div class="postwrapper">
             <div class="post" id="post">
