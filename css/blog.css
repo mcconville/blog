@@ -125,3 +125,18 @@
   margin-top: 30px;
   font-weight: bold;
 }
+
+
+* iPhone X */
+@media only screen and (device-width : 375px) and (device-height : 812px) and (-webkit-device-pixel-ratio : 3) {
+  .blogcontent {
+      display: -webkit-flex;
+      display: flex;
+      margin: auto;
+      flex-direction: column;
+      width: auto;
+      justify-content: center;
+      align-items: center;
+      align-content: center;
+  }
+}
