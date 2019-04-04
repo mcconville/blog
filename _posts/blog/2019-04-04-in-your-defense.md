@@ -5,7 +5,9 @@ tagline: "Supporting tagline"
 tags : [books]
 ---
 
-One of my favourite places to spend an hour when I visit London is the [Waterstones bookstore in Picadilly](https://www.waterstones.com/bookshops/piccadilly). Maybe it is because I don't live in the UK anymore, and so take the bookstores in Ottawa for granted, but mostly because there is something soothing and appealing about the UK book covers, and the tables of stacked books on display. It feels a bit like a treasure box to rifle through, and I think it reacquaints me with a piece of my UK identity that I've been rediscovering in recent years.
+One of my favourite places to spend an hour when I visit London is the [Waterstones bookstore in Picadilly](https://www.waterstones.com/bookshops/piccadilly). In part that's because I don't live in the UK anymore, and maybe take the bookstores in Ottawa for granted, so it is exciting to access a different stock of books.
+
+Mostly I like spending time there because I find it soothing, and the tables of stacked books on display are especially appealing. It feels a bit like a treasure box to rifle through in a time-boxed fashion. I also think it reacquaints me with a piece of my UK identity that I've been blowing the dust off in recent years.
 
 When I spent a couple of days in London mid March, I came across ['In Your Defense' by Sarah Langford](https://www.penguin.co.uk/books/111/1114624/in-your-defence/9781784163082.html). I have to admit that this particular book cover didn't appeal to me - it looked a little glam and trashy to my eye. Maybe I'm not the target audience. However, the subject matter was very appealing, and I'm so glad that I picked it as one of two books to read while traveling. It is a first hand account of a young barrister working in England, shared through a series of her cases.
 
