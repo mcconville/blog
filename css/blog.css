@@ -21,7 +21,6 @@
   height: 22px;
   align-content: center;
   align-items: center;
-  border: 1px solid #bcc2c4;
 }
 
 .monthdot {
@@ -31,7 +30,6 @@
   background: #385061;
   margin-left: 13px;
   margin-right: 10px;
-  border: 1px solid #bcc2c4;
 }
 
 .monthlabel {
