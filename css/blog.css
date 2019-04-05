@@ -169,6 +169,8 @@
     width: auto;
     justify-content: space-between;
     font-size: 14px;
+    padding-left:15px;
+    padding-right: 15px;
   }
 }
 
@@ -194,6 +196,8 @@
     width: auto;
     justify-content: space-between;
     font-size: 14px;
+    padding-left:15px;
+    padding-right: 15px;
   }
 }
 
@@ -221,6 +225,8 @@ and (orientation : portrait){
     flex-flow: row;
     margin: auto;
     margin-top:30px;
+    padding-left:15px;
+    padding-right: 15px;
     width: auto;
     justify-content: space-between;
     font-size: 14px;
