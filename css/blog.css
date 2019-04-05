@@ -158,6 +158,43 @@
       align-items: center;
       align-content: center;
   }
+
+  .blognavigation{
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row;
+    flex-flow: row;
+    margin: auto;
+    margin-top:30px;
+    width: auto;
+    justify-content: space-between;
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
+  .blogcontent {
+      display: -webkit-flex;
+      display: flex;
+      margin: auto;
+      flex-direction: column;
+      width: auto;
+      justify-content: center;
+      align-items: center;
+      align-content: center;
+  }
+
+  .blognavigation{
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row;
+    flex-flow: row;
+    margin: auto;
+    margin-top:30px;
+    width: auto;
+    justify-content: space-between;
+    font-size: 14px;
+  }
 }
 
 
@@ -175,5 +212,17 @@ and (orientation : portrait){
       justify-content: center;
       align-items: center;
       align-content: center;
+  }
+
+  .blognavigation{
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row;
+    flex-flow: row;
+    margin: auto;
+    margin-top:30px;
+    width: auto;
+    justify-content: space-between;
+    font-size: 14px;
   }
 }
