@@ -68,7 +68,7 @@
   <div class="blognavigation">
 
     {% if page.next.url %}
-    <a class="nextpost" href="{{page.next.url | prepend:'/blog'}}">{{page.next.title}} </a>
+    <a class="nextpost" href="{{page.next.url | prepend:'/blog'}}">&laquo; {{page.next.title}} </a>
     {% else %}
     <a class="nextpost" href="https://mcconville.github.io/blog">&laquo; timeline</a>
     {% endif %}

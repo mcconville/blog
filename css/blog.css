@@ -58,6 +58,14 @@
   justify-content: space-between;
 }
 
+.nextpost{
+  color: #385061;
+}
+
+.previouspost{
+  color: #385061;
+}
+
 .postwrapper {
   background: white;
   border-radius: 4px;
