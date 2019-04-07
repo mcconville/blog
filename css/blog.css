@@ -1,3 +1,34 @@
+.bloglines{
+  margin:0;
+  padding:0;
+}
+
+.blogline{
+  list-style: none;
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  /* width: 812px; */
+}
+
+a .blogline{
+  color:#274255;
+}
+
+.bloglink{
+  color:#274255;
+}
+
+.blogdate{
+  color:#599ec4;
+  width: 160px;
+}
+
+.related{
+  margin-top: 50px;
+}
+
 .timeline {
   display: flex;
   flex-direction: column;
