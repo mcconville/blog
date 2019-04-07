@@ -100,8 +100,8 @@ a .blogline {
 
 .postwrapper {
   background: white;
-  border-radius: 4px;
-  padding: 20px;
+  /* border-radius: 4px;
+  padding: 20px; */
   margin-top: 30px;
 }
 
