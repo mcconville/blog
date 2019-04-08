@@ -5,7 +5,9 @@ tagline: "Supporting tagline"
 tags : [projects]
 ---
 
-![Coldplay sketch](https://raw.githubusercontent.com/mcconville/blog/53b5dd35d297f2d6df1319c72fd92fcf5ff43256/images/coldplay.png)
+<!-- ![Coldplay sketch](https://raw.githubusercontent.com/mcconville/blog/53b5dd35d297f2d6df1319c72fd92fcf5ff43256/images/coldplay.png) -->
+
+<img src="https://raw.githubusercontent.com/mcconville/blog/53b5dd35d297f2d6df1319c72fd92fcf5ff43256/images/coldplay.png" width="100%">
 
 Now that I've managed to revive my website, and blog, I'm reviving my Coldplay lyrics project. It will work in a similar fashion to the [psychology of David Bowie personas](https://ziggy.mybluemix.net) project that I made a couple of years ago.
 
@@ -15,6 +17,8 @@ This time, I'm going to try my hand with some animations, and a sprinkling of [H
 
 Here's a rough sketch of what I'm building up with it ...
 
-![screenshot of coldplay analysis](https://raw.githubusercontent.com/mcconville/blog/53b5dd35d297f2d6df1319c72fd92fcf5ff43256/images/screenshot.png)
+<!-- ![screenshot of coldplay analysis](https://raw.githubusercontent.com/mcconville/blog/53b5dd35d297f2d6df1319c72fd92fcf5ff43256/images/screenshot.png) -->
+
+<img src="https://raw.githubusercontent.com/mcconville/blog/53b5dd35d297f2d6df1319c72fd92fcf5ff43256/images/screenshot.png" width="100%">
 
 Hopefully I can write more about this soon!
