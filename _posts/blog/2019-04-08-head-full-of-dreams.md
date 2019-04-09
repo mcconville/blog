@@ -5,7 +5,7 @@ tagline: "Supporting tagline"
 tags : [projects]
 ---
 
-<img src="https://raw.githubusercontent.com/mcconville/blog/gh-pages/images/coldplay.svg" width="100%">
+<img src="https://raw.githubusercontent.com/mcconville/blog/53b5dd35d297f2d6df1319c72fd92fcf5ff43256/images/coldplay.png" width="100%">
 
 Now that I've managed to revive my website, and blog, I'm reviving my Coldplay lyrics project. It will work in a similar fashion to the [psychology of David Bowie personas](https://ziggy.mybluemix.net) project that I made a couple of years ago.
 
