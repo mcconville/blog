@@ -9,7 +9,7 @@ Like millions of others, I am addicted to Game of Thrones. An added allure for m
 
 I hadn't heard of some of the amazing, and naturally beautiful looking surroundings where they've filmed.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1PgomKOWFsvx-x9FbYEawQ6FaoB-fWcJ7" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1PgomKOWFsvx-x9FbYEawQ6FaoB-fWcJ7" width="100%" height="300"></iframe>
 
 So - three sites that I am making a mental note to check out next time I'm home:
 
