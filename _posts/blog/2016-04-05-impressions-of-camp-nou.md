@@ -2,7 +2,7 @@
 layout: post
 category : anton
 tagline: "Supporting tagline"
-tags : [blog]
+tags : [travel]
 ---
 
 A few weeks ago, in what now feels like a dream, I spent 10 days in Catalonia. As part of that memorable trip I saw two games at Camp Nou. Barcelona played Getafe, and a few days later played Arsenal in the Champions league.
@@ -24,4 +24,3 @@ I've been to a few football stadiums in my time, mostly in the UK. A few things 
 5] Messi's cross field balls to Neymar are **stunning to witness in real life**. I thought they were pretty amazing on TV ... you can hear the crowd gasp everytime he conjures up a long distance, diagonal ball to Neymar's toes.
 
 6] Doesn't matter how many they score, **the crowd always wants more**. I would have thought the crowd would be used to big scorelines and mesmerising football by now, but even at 6:0 up against Getafe, the crowd were ready for more goals
-
