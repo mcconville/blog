@@ -5,7 +5,7 @@ tagline: "Supporting tagline"
 tags : [technology]
 ---
 
-Thought I'd jot down a few notes about reflections and observations of [KubeCon Europe 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/).
+Thought I'd jot down a few notes about reflections and observations of [KubeCon Europe 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/) ...
 
 <img src="https://raw.githubusercontent.com/mcconville/blog/gh-pages/images/kubeconeu2019%402x.png" width="100%">
 
