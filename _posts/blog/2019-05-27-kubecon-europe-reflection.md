@@ -9,7 +9,7 @@ Thought I'd jot down a few notes about reflections and observations of [KubeCon 
 
 <img src="https://raw.githubusercontent.com/mcconville/blog/gh-pages/images/kubeconeu2019%402x.png" width="100%">
 
-I didn't attend too many sessions - about half my time at the conference was spent either preparing to speak at the IBM mini theatre, speak at the mini theatre or help at the booth, so these are thoughts about the few sessions I was able to attend ...
+I didn't attend as many sessions as I'd like - about half my time at the conference was spent either preparing to speak at the IBM mini theatre, speak at the mini theatre or help at the booth - there to work ... so these are thoughts about the few sessions I was able to attend ...
 
 [Mental Health in Tech - Dr Jennifer Akullian](https://kccnceu19.sched.com/event/NyYU/mental-health-in-tech-dr-jennifer-akullian-growth-coaching-institute)
 
