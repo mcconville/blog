@@ -13,7 +13,7 @@ I didn't attend as many sessions as I'd like - about half my time at the confere
 
 [Mental Health in Tech - Dr Jennifer Akullian](https://kccnceu19.sched.com/event/NyYU/mental-health-in-tech-dr-jennifer-akullian-growth-coaching-institute)
 
-Was happily surprised to see this on the agenda of Cloud Tech conference. I've been managing a development team for almost two years now, and try to be conscious of the human challenges, as well as the work challenges we face - so I welcome any insight into the subject of mental health in technology.
+Was happily surprised to see this on the agenda of a cloud technology conference. Even happier to see it so well attended. I've been managing a development team for almost two years now, and try to be conscious of the human challenges, as well as the work challenges we face - they're real. So I welcome any insight into the subject of mental health in technology.
 
 Jennifer recounted a few personal stories and perspectives. She shared some eye opening statistics about the rates and weights of mental health challenges in the tech workplace, and gave a few pointers of advice.
 
@@ -23,7 +23,7 @@ Definitely a talk to watch again when the videos are posted.
 
 Sai is an IBM colleague - I've been lucky to collaborate with him on a couple of projects. In this talk he sped through a few examples from 'lift and shift' to extending a classic Java application to Kube. It was very well done, with a slick performance from Sai - he certainly has a gift for this :)
 
-The hall was large and packed - which gives a clue that the developer world has an appetite for this subject. One of my own talks was about app modernization, and I detected a similar hunger from my much smaller crowd about approaches and case studies.
+The hall was large and packed - which provides a clue that the developer world has an appetite for this subject. One of my own talks was about app modernization, and I detected a similar hunger from my much smaller crowd about approaches and case studies.
 
 Would recommend Sai's video when it is posted.
 
