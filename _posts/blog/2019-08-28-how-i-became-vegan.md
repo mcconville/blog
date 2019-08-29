@@ -7,9 +7,10 @@ tags : [vegan]
 
 My emerging journey to veganism began as a four year old boy, on a sunny summer day, running around the perimeter of a rented holiday cottage in Donegal, Ireland.
 
-Turning a corner, I splashed into a puddle of red water, trickling towards a drain. My dad was hosing clean a gutted silver coloured fish, that he had caught earlier in the day. I haven't eaten seafood since.
-
 <img src="https://raw.githubusercontent.com/mcconville/blog/gh-pages/images/peace%20animals%402x.png" width="100%">
+
+
+Turning a corner, I splashed into a puddle of red water, trickling towards a drain. My dad was hosing clean a gutted silver coloured fish, that he had caught earlier in the day. I haven't eaten seafood since.
 
 My stance on seafood was an enduring nuisance. Ireland is an island, where fresh fish and seafood from the surrounding waters of the Atlantic Ocean, and Irish Sea are part of the fabric of life. Back then we didn't even have a supermarket chain in our town - we had an outdoor market - and fish was a big part of it - fish was a tradition on Fridays and fast days for my Irish Catholic family. So my parents were reminded of my feelings at least once a week. I am grateful to them that they accepted my feelings, when I was so little. Although my dad never stopped gently asking me about it. I think he may have felt guilty for what happened.
 
