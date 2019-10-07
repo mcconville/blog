@@ -5,7 +5,7 @@ tagline: "Supporting tagline"
 tags : [projects]
 ---
 
-It feels doubly lucky for me this month to fulfill a dream in traveling to Colombia, South America, AND sharing a passion project with the [developer community there at JSConf Colombia, Medellín](http://jsconf.co/).
+It feels doubly lucky for me this month to fulfill a dream in traveling to Colombia, South America, AND sharing a passion project with the developer community there at [JSConf Colombia, Medellín](http://jsconf.co/).
 
 I'm going to present some project work that visualizes the psychology of an artist's lyrics, while experimenting with an emerging CSS and Javascript technology known as Houdini.
 
@@ -17,11 +17,11 @@ The combination of color, light and sound made the concert very different from a
 
 <img src="https://raw.githubusercontent.com/mcconville/blog/gh-pages/images/coldplayproject.png" width="100%">
 
-The concert inspired me to doodle Coldplay throughout their career, for each album, and explore their lyrical changes too ( [like I did with David Bowie a few years ago](https://www.ibm.com/blogs/cloud-archive/2017/01/natural-language-analysis-of-david-bowie-personas/) ).
+The concert inspired me to doodle Coldplay throughout their career, for each album, and explore their lyrical changes too ( [like I did with David Bowie's lyrics a few years ago](https://www.ibm.com/blogs/cloud-archive/2017/01/natural-language-analysis-of-david-bowie-personas/) ).
 
-This time, I wanted to stretch myself, and do something new in my approach. Coldplay use a lot of confetti at certain points when they perform. I wondered if I could use confetti in visualizing their lyrics data in some way.
+I find it really interesting relating the psychology of the lyrics to life events of the artist, while also looking for clues as to why the music connects with me so much. It is fascinating to see the influence of life events in Coldplay's music.
 
-I find it really interesting relating the psychology of the lyrics to life events of the artist, while also looking for clues as to why the music connects with me so much. It is interesting to see some life events influencing Coldplay's music.
+This time I wanted to stretch myself, and find a fresh angle. Coldplay shower confetti at certain points when they perform. I wondered if I could visualize data with confetti in some way.
 
 This blog post is just a preview of some of the things I'll be talking about at the [JS Conf Colombia](http://jsconf.co/). I'll save the details, and my github repo for attendees, before writing more about it.
 
