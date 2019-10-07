@@ -23,6 +23,6 @@ This time, I wanted to stretch myself, and do something new in my approach. Cold
 
 I find it really interesting relating the psychology of the lyrics to life events of the artist, while also looking for clues as to why the music connects with me so much. It is interesting to see some life events influencing Coldplay's music.
 
-This blog post is just a preview of some of the things I'll be talking about at the [conference in Colombia](http://jsconf.co/). I'll save the details, and my github repo for attendees there first, before writing more about it.
+This blog post is just a preview of some of the things I'll be talking about at the [JS Conf Colombia](http://jsconf.co/). I'll save the details, and my github repo for attendees, before writing more about it.
 
-For now I will share my initial confetti Houdini repo. I used this repo to figure out how to make a custom confetti css class. During my presentation, I'll talk through how it works, and show how I use it in the project that I put together.
+But as a taster, I will share my basic confetti Houdini paint repo. I used this repo to figure out how to make a custom confetti css class. During my presentation, I'll talk through how it works, and show how I use it in the project that I put together.
