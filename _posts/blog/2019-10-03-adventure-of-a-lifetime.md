@@ -7,7 +7,7 @@ tags : [projects]
 
 It feels doubly lucky for me this month to fulfill a dream in traveling to Colombia, South America, AND sharing a passion project with the developer community there at [JSConf Colombia, Medellín](http://jsconf.co/).
 
-I'm going to present some project work that visualizes the psychology of an artist's lyrics, while experimenting with an emerging CSS and Javascript technology known as Houdini.
+I'm going to present some project work that visualizes the psychology of an artist's lyrics, while experimenting with an emerging CSS and Javascript technology known as [Houdini](https://developer.mozilla.org/en-US/docs/Web/Houdini).
 
 <img src="https://raw.githubusercontent.com/mcconville/blog/gh-pages/images/seven%20ages%402x.png" width="100%">
 
