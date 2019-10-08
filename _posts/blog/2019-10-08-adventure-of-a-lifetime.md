@@ -23,4 +23,6 @@ This blog post is just a preview of some of the things I'll be talking about at 
 
 My talk is made up of a few parts - lyric mining with Node and Watson, drawing with SVG and layout with Flexbox, exploring and integrating with CSS Houdini.
 
-As a taster, for now I will share my basic confetti Houdini paint repo. I used this repo to figure out how to make a custom confetti css class. During my presentation, I'll talk through how it works, and show how I use it in the project that I put together.
+As a taster, for now I will share my basic [confetti Houdini paint repo](https://github.com/mcconville/houdini-experiments). I used this repo to figure out how to make a custom confetti css class. During my presentation, I'll talk through how it works, and show how I use it in the project that I put together.
+
+I look forward to sharing more on this soon :)
