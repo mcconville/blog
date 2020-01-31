@@ -5,15 +5,17 @@ tagline: "Supporting tagline"
 tags : [vegan]
 ---
 
-Last year might be considered a turning point for the interest in vegan food consumption, because in part of the phenomena known as 'Beyond Meat'.
+Last year seemed a sort of turning point for vegan food consumption, because in no small part of the phenomena known as 'Beyond Meat'.
 <img src="https://raw.githubusercontent.com/mcconville/blog/gh-pages/images/beyond%20food%402x.png" width="100%">
-Beyond Meat is an engineered, entirely plant based replacement for hamburgers, sausages and even ground beef in burritos. It is increasingly available at restaurants like A&W, Mucho Burrito, Tim Hortons, Burger King and more as well as in chilled cases at pretty much all of the grocery stores. It's a good news story. Maybe even a great one I think. At least the A&W burgers taste great.
+[Beyond Meat](https://www.beyondmeat.com/) is an engineered, entirely plant based replacement for hamburgers, sausages and even ground beef in burritos. 
+
+It is cropping up at restaurants like A&W, Mucho Burrito, Tim Hortons, Burger King and more as well as in chilled cases at pretty much all of the grocery stores. It's a good news story. Maybe even a great one I think. At least the A&W burgers taste great.
 
 As a vegan, I was as excited to taste it, cook with it, and learn more about it. I like it, and I like that there are so many more options for vegetarians and vegan fast food these days too.
 
 #### Plant Based Economy
 
-I've been vegetarian a long time, and my diet has shaken out a few favorite substitutes for 'regular everyday food' too ... for example:
+I've been vegetarian a long time, and over the years my diet has shaken out a few favorite substitutes for 'regular everyday food' too ... for example:
 
 * [Barista Blend](https://www.califiafarms.com/products/barista-blend-32oz)
 * [Chao cheese](https://fieldroast.com/products/chao/)
@@ -21,7 +23,7 @@ I've been vegetarian a long time, and my diet has shaken out a few favorite subs
 * [Beet Burgers](https://solcuisine.com/products/sunflower-beet-burger/)
 * [Tempeh Bacon](https://tofurky.com/what-we-make/tempeh/smoky-maple-bacon/#flavormenu)
 
-I've been taking more interest in the economy around plant based alternatives recently, and started looking at some of the companies behind these products. I was interested thinking about possibly ethical investments, but also curious to understand motivations and ambitions.
+I've been taking more interest in the economy around plant based alternatives recently, and started looking at some of the companies behind these products. I was interested thinking about possibly ethical investments, but also curious to understand motivations and ambitions ... here's what I found from a little surfing ...
 
 #### Califia Farms
 
@@ -78,9 +80,3 @@ In general I eat vegan blts maybe once a week. I eat a veggie burger at home onc
 Like any processed foods - too much of it is not a good idea. I want to focus more on naturally made things starting with real plants, as opposed to the processed kinds.
 
 I'm glad that so much more attention is being placed on vegan diets now ... but conscious that this food isn't what being vegan means.
-
-
-
-
-
-
