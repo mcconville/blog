@@ -5,7 +5,7 @@ tagline: "Supporting tagline"
 tags : [covid19]
 ---
 
-I am recovering what I think was a Covid-19 infection. I had almost all of the symptoms of Covid 19, yet I tested negative for it, nine days after my first cough.
+I am recovering from what I think was a Covid-19 infection. I had almost all of the symptoms of Covid 19, yet I tested negative for it, nine days after my first cough.
 
 A couple of weeks ago, I started coughing. At first it was a tiny random cough, that I just dismissed. I can't remember when I last had a cough. 
 
