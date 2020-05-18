@@ -9,7 +9,7 @@ I am recovering what I think was a Covid-19 infection. I had almost all of the s
 
 A couple of weeks ago, I started coughing. At first it was a tiny random cough, that I just dismissed. I can't remember when I last had a cough. 
 
-![](https://raw.githubusercontent.com/mcconville/blog/gh-pages/images/symptoms.png)
+<img alt="timeline of my symptoms" src="https://raw.githubusercontent.com/mcconville/blog/gh-pages/images/symptoms.png" width="100%">
 
 Every cough or sneeze at the moment seems to come with a question mark, and every change in health a cause to ask if it is 'the virus'. I haven't asked that about myself until now ... even during the first few days of what turned out to be a breathless few weeks, I was looking for any other explanation, not believing I could be infected. No one wants to believe it.
 
