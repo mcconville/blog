@@ -44,7 +44,6 @@ If you have multiple Covid 19 symptoms, and test negative - I urge you to consid
 
 [Research from an Associate Professor of Epidemiology at the Johns Hopkins Bloomberg School of Public Health, and his team](https://www.acpjournals.org/doi/10.7326/M20-1495)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Be careful about ruling out <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> infection based on a negative RT-PCR result. Particularly soon after potential infection. See our analysis in <a href="https://twitter.com/AnnalsofIM?ref_src=twsrc%5Etfw">@AnnalsofIM</a> with <a href="https://twitter.com/LKucirka?ref_src=twsrc%5Etfw">@LKucirka</a> <a href="https://twitter.com/salauer_biostat?ref_src=twsrc%5Etfw">@salauer_biostat</a> <a href="https://twitter.com/DenaliBoon?ref_src=twsrc%5Etfw">@DenaliBoon</a> and Oliver Laeyendecker to see why. <a href="https://t.co/aUJNhj4Sir">https://t.co/aUJNhj4Sir</a></p>&mdash; Justin Lessler (@JustinLessler) <a href="https://twitter.com/JustinLessler/status/1260732616841596929?ref_src=twsrc%5Etfw">May 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [British Medical Journal](https://www.bmj.com/content/369/bmj.m1808?utm_source=twitter&utm_medium=social&utm_term=hootsuite&utm_content=sme&utm_campaign=usage)
 
