@@ -13,14 +13,14 @@ A couple of weeks ago, I started coughing. At first it was a tiny random cough, 
 
 Every cough or sneeze at the moment seems to come with a question mark, and every change in health a cause to ask if it is 'the virus'. I haven't asked that about myself until now ... even during the first few days of what turned out to be a breathless few weeks, I was looking for any other explanation, not believing I could be infected. No one wants to believe it.
 
-#### TL:DR; 
+### TL:DR; 
 
 *If I could have handled this differently, I would have believed the signs faster, and got a test sooner. I would have asked for a second test the following day.*
 
 This was nothing like any cold, flu, or allergy I've ever had. My nose was clear as a bell. Whatever it was, was entirely in my lungs. To coin a phrase from Oprah: 'if someone shows you who they are, believe them'.
 
 
-#### Two weeks of breathing problems ... 
+### Two weeks of breathing problems ... 
 
 Sixteen days later, I am, hopefully reaching the other side of an illness that built in steady, breathless waves, then reached a crescendo that had me considering calling an ambulance. I guess this is what they consider a 'mild' case.
 
@@ -34,7 +34,7 @@ I'm writing this down for a couple of reasons:
  
  - The second reason, is to share my story of what I believe was the virus, and to point out a growing body of evidence that Covid-19 tests can yield false negative results, depending on how the sample is taken, and at which point in the illness.
 
-#### False negatives seem to be a thing ...
+### False negatives seem to be a thing ...
 
 In my case I had a throat swab. The nurse made two attempts at taking it, because I was gagging each time. I had also gargled with mouthwash containing alcohol ( without thinking ) just 15-20 miuntes prior to my test. She told me I was doing well and to relax. It is not a comfortable experience for anyone, and those health workers are incredible. Absolutely incredible. Fearless. 
 
@@ -54,7 +54,7 @@ If you have multiple Covid 19 symptoms, and test negative - I urge you to consid
 
 Another [article about 'false negatives'](https://www.healthline.com/health-news/false-negatives-covid19-tests-symptoms-assume-you-have-illness#How-false-negatives-happen)
 
-#### Conclusions
+### Conclusions
 
 I imagine there will be those that read this and conclude quickly that my test was negative, therefore I must have been sick with something else. When I learned my result, I was relieved - glad that I had missed the virus. But I was also confused. I went to bed accepting the outcome, and hopeful that whatever was going on had reached an apex already anyway. But it hadn't, I had my worst night with it that same night, sitting on my bed breathless and crying at 4am, on a Monday morning, wondering whether to call an ambulance. 
 
