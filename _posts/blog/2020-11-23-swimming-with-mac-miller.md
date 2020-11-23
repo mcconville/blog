@@ -25,7 +25,7 @@ I've realized that it doesn't scale well, so during the past few months, I've be
 
 I'm really excited by the power of web components, expecially given how they are an open standard for modularizing web development. I'm also really excited to share some of the things that I've learned about using them, as well as my tools and library.
 
-### What did I learn about Mac
+### What did I learn about Mac?
 
 I am no expert on Mac Miller, at all. To figure out his different eras, I relied on his Wikipedia entry. I took each of his six studio albums and then watched some videos of songs from them, to see how he looked visually. 
 
