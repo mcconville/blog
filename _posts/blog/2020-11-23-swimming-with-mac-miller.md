@@ -5,7 +5,7 @@ tagline: "Supporting tagline"
 tags : [projects]
 ---
 
-A few weeks ago, my teenage son Toby asked if I'd help him use my David Bowie lyrics personality analysis on the artist [Mac Miller](https://en.wikipedia.org/wiki/Mac_Miller).
+A few weeks ago, my teenage son Toby asked if I'd help him use my Natural Language Processing, David Bowie lyrics personality analysis techniques on the artist [Mac Miller](https://en.wikipedia.org/wiki/Mac_Miller).
 
 <img src="https://raw.githubusercontent.com/mcconville/blog/gh-pages/images/macmiller.png" width="100%">
 
