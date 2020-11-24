@@ -11,5 +11,10 @@ One afternoon when I was a teenager, I picked up my brother's acoustic guitar, o
 
 I've been continuing to dig into the changing psychology of artists through their lyrics using [Watson Personality Insights](https://www.ibm.com/watson/services/personality-insights/) and earlier this year worked on a Beatles project. As usual, I drew the Beatles in my own childish style using Adobe Illustrator, and ran personality insights on the band's lyrics.
 
-With the help of my work colleagues, Steve and Bogdan, both Beatles fans, we identified five eras of Beatles music styles.
+With the help of my work colleagues, Steve and Bogdan, both Beatles fans, we identified five eras of Beatles music styles. [You can check the project out for yourself.](https://mcconville.github.io/beatles/)
 
+- Beatle Mania : 1963 - 1965
+- Experimentation : 1965 - 1966
+- Psychedelia : 1967 - 1969
+- Back To Basics : 1968 - 1970
+- Resurgence : 1969 - 1970
