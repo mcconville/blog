@@ -29,7 +29,17 @@ These are the eras we identified.
 
 The Beatles music changes through fairly dramatic and well defined styles beginning with the poppiness of albums like 'Help!' and ending in the mastery and refinement of 'Abbey Road'.
 
-### What do the changes of eras reveal
+### What do the changes of eras reveal?
+
+Well, based on the big five personality traits the Beatles were remarkably consistent in their emotional range throughout their career.
+
+Trust and authority challenging peaked with the Sgt Pepper era. Striving for achievement ( lyrically ) reached a peak with Abbey Road.
+
+Lyrically, the 'Back To Basics' era was the least agreeable - matching the written history of the band during the recording of 'The Beatles' and 'Let It Be' albums.
+
+So maybe not so many surprises lyrically. The Big Five Personality Traits indicate that the Beatles ended on a high note - with the most conscientious work ( lyrically, and the all around higest scoring ). 
+
+I really liked figuring out these eras, studying the results and drawing sketches of the band through the ages.
 
 
 
