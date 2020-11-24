@@ -13,8 +13,23 @@ I've been continuing to dig into the changing psychology of artists through thei
 
 With the help of my work colleagues, Steve and Bogdan, both Beatles fans, we identified five eras of Beatles music styles. [You can check the project out for yourself.](https://mcconville.github.io/beatles/)
 
+### Beatles Eras
+
+If you check the project out, you can see how we assigned the albums to these eras.
+
+<img src="https://raw.githubusercontent.com/mcconville/blog/gh-pages/images/beatles-screenshot.png" width="100%">
+
+These are the eras we identified. 
+
 - Beatle Mania : 1963 - 1965
 - Experimentation : 1965 - 1966
 - Psychedelia : 1967 - 1969
 - Back To Basics : 1968 - 1970
 - Resurgence : 1969 - 1970
+
+The Beatles music changes through fairly dramatic and well defined styles beginning with the poppiness of albums like 'Help!' and ending in the mastery and refinement of 'Abbey Road'.
+
+### What do the changes of eras reveal
+
+
+
