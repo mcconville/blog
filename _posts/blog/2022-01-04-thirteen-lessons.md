@@ -46,7 +46,7 @@ I feel lucky to have been adopted by McQ's team.
 
 [IBM turned 100](https://www.ibm.com/ibm/history/ibm100/us/en/) in 2011, and challenged us to spend a day giving back to non profits in a [celebration of service](https://www.ibm.com/ibm/history/ibm100/us/en/service/). 
 
-My one day of service turned into three years of desperately [designing](https://dribbble.com/shots/3075948-Disaster) building an iPhone app for a non profit. It forced me to learn how to build cloud and mobile apps - at the time, because of a difficult relationship between Apple and IBM, I had to ask a GM for permission to do that. 
+My one day of service turned into three years of desperately [designing and building an iPhone app](https://mcconville.github.io/pages/detail.html?project=ShelterBox) for a non profit. It forced me to learn how to build cloud and mobile apps - at the time, because of a difficult relationship between Apple and IBM, I had to ask a GM for permission to do that. 
 
 I was incredibly moved by the stories of displacement, and inspired to build an app to tell those stories. I would still very much like this to be my mission. It was not sustainable for me to keep building this vision.
 
@@ -95,7 +95,7 @@ I worked with The Gap, The UK Government, KP, ABC, Cigna, Boeing among others. I
 
 2016 was the year David Bowie died, and somehow a year of reflection for me, in which I built a simple NLP app to reflect on Bowie, and understand why his loss affected me so much. It was in the things that made me tick - words, songs, creativity and design. It turned out that my project was an inspiration to others, and helped me travel to present it to the tech community and to businesses around the world.
 
-This year too, I led a team to create the Bluemix Mobile app, almost as a guerilla project within IBM. At the time, no other competitor had a mobile app for thier cloud. This app was among the most beautiful apps I've worked on ... yet the leadership of IBM Cloud deprioritized it. Today, IBM does not have a mobile cloud app, yet Amazon, Google and MS do.
+This year too, I led a team to create the [Bluemix Mobile app](https://mcconville.github.io/pages/detail.html?project=Pulse), almost as a guerilla project within IBM. At the time, no other competitor had a mobile app for thier cloud. This app was among the most beautiful apps I've worked on ... yet the leadership of IBM Cloud deprioritized it. Today, IBM does not have a mobile cloud app, yet Amazon, Google and MS do.
 
 #### 2017 - Take community service seriously
 
