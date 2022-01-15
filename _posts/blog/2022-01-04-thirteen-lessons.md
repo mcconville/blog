@@ -11,9 +11,9 @@ tags : [work personal]
 
 I joined Google in July as an engineering manager, and spent the second half of the year first of all pinching myself that I am working for a company I admire so much, and then deeply immersing in a lot of new information, growing a new team, and adapting to a new, and lovely work culture.  
 
-My friend Steve also moved on from IBM in 2021. He cleverly put together a thread of 18 lessons from 18 years there. Inspired by him, I thought I'd reflect on thirteen career lessons from my thirteen years at IBM.
+My friend Steve also moved on from IBM in 2021. [He cleverly put together a thread of 18 lessons from 18 years there.](https://twitter.com/stevebot/status/1465721563303624715?s=20) Inspired by him, I thought I'd reflect on thirteen career lessons from my thirteen years at IBM.
 
-### 2008 - Try not to settle 
+#### 2008 - Try not to settle 
 
 My time at IBM began when Nortel ended in financial meltdown. when I look back, I had stayed at Nortel far, far too long. It had given me a wonderful start, and an opportunity to live in Canada - but there were far too many years of very difficult uncertainty. 
 
@@ -23,7 +23,7 @@ IBM gave me a shockingly healthy home when I joined. Dignity, clenliness, snacks
 
 I was really proud and grateful to work at IBM.
 
-### 2009 - Learn from your team mates
+#### 2009 - Learn from your team mates
 
 My first job at IBM was building a web based UML tool. After almost two decades of writing code in C and Java, working with [Christian](https://www.linkedin.com/in/christianmvogt/) and [Marc](https://www.linkedin.com/in/marc-gobeil/) taught me a lot about programming in JavaScript - writing better code generally. Grateful to have worked with them.
 
@@ -31,7 +31,7 @@ I was really proud of what we built together, and look back at that time fondly.
 
 I am really grateful for all IBM taught me.
 
-### 2010 - Move around
+#### 2010 - Move around
 
 2010 was a tough year for me both personally and professionally. The part of IBM I worked at was about to be carved off. I didn't know at the time. The net effect was almost empty cubicles around me, which added to the sadness in my personal life at the same time. 
 
@@ -42,7 +42,7 @@ If something doesn't feel right about especially the people you're working with 
 I feel lucky to have been adopted by McQ's team.
 
 
-### 2011 - Celebrate your service
+#### 2011 - Celebrate your service
 
 [IBM turned 100](https://www.ibm.com/ibm/history/ibm100/us/en/) in 2011, and challenged us to spend a day giving back to non profits in a [celebration of service](https://www.ibm.com/ibm/history/ibm100/us/en/service/). 
 
@@ -56,7 +56,7 @@ I know that it also won donations for the non profit.
 
 Lean into celebrations. 
 
-### 2012 - Work on an Open Source Project
+#### 2012 - Work on an Open Source Project
 
 Working on [Eclipse Orion](https://projects.eclipse.org/projects/ecd.orion) gave me insight into how open source software is really built, what it really takes to create a community, and how it ends up being used by so many people.
 
@@ -64,7 +64,7 @@ It also gave me an opportunity to grow my front end development skills and front
 
 Really glad to have had this open source experience.
 
-### 2013 - Find a manager who supports you
+#### 2013 - Find a manager who supports you
 
 There is a greyzone for front end engineers like me. Engineers see me as a designer. Designers see me as an engineer. 
 
@@ -77,7 +77,7 @@ McQ and Simon saw this in me too. They supported my design work, and empowered m
 I'm glad to have experienced so much support from managers in my life, and really want to pay that forward as a manager myself.
 
 
-### 2014 - Keep making goals for yourself
+#### 2014 - Keep making goals for yourself
 
 I think this was the year that IBM eventually took our open source project and turned it into a [Web IDE](https://projects.eclipse.org/projects/ecd.orion), which is still in use today.
 
@@ -85,23 +85,23 @@ It feels amazing to me looking at that web page and realizing that I led design 
 
 I worked really closely with IBM Design, as a designer. With support from my team, I'd worked in a role that had seemed difficult to move to. 
 
-### 2015 - Never stop experimenting
+#### 2015 - Never stop experimenting
 
 In 2015 Uwe saw me present my non profit app at an IBM conference. He asked me immediately after if I'd be open to working as a 'developer advocate' to work with customers, showing them how to build mobile apps on IBM Cloud. It was a dream job - where I could bring all of myself as a designer, a developer, a presenter, a traveler ... and an observor. 
 
 I worked with The Gap, The UK Government, KP, ABC, Cigna, Boeing among others. I met developers in their labs, all over the US. It was enlightening, hearing about their use cases, working on studies, and prototyping apps with them.
 
-### 2016 - Tap into what makes you tick
+#### 2016 - Tap into what makes you tick
 
 2016 was the year David Bowie died, and somehow a year of reflection for me, in which I built a simple NLP app to reflect on Bowie, and understand why his loss affected me so much. It was in the things that made me tick - words, songs, creativity and design. It turned out that my project was an inspiration to others, and helped me travel to present it to the tech community and to businesses around the world.
 
 This year too, I led a team to create the Bluemix Mobile app, almost as a guerilla project within IBM. At the time, no other competitor had a mobile app for thier cloud. This app was among the most beautiful apps I've worked on ... yet the leadership of IBM Cloud deprioritized it. Today, IBM does not have a mobile cloud app, yet Amazon, Google and MS do.
 
-### 2017 - Take community service seriously
+#### 2017 - Take community service seriously
 
-For the rest of my life I'll be grateful for the gift of the Corportate Service Corps at IBM. I spent over a month in Brazil, working with a municipality, sharing my design and development skills and experience with a team there, and opening my eyes to diversity, beauty and struggles in a city in Sao Paulo State. I also made fantastic friends 
+For the rest of my life I'll be grateful for the gift of the Corportate Service Corps at IBM. I spent over a month in Brazil, working with a municipality, sharing my design and development skills and experience with a team there, and opening my eyes to diversity, beauty and struggles in a city in Sao Paulo State. I also made [fantastic friends](https://mcconville.github.io/blog/anton/2017/08/23/my-csc-team-mates) who I still chat with, and hope to see again soon. 
 
-### 2018 - Focused teams can move mountains
+#### 2018 - Focused teams can move mountains
 
 After my CSC, I accepted the offer of an engineering management role, and was given a team to rebuild. Rebuilding my team was one of the most challenging tasks I've had to do in my career. Setting new standards, and upholding goals, while helping the team grow.
 
@@ -113,7 +113,7 @@ I used scrum training from my time at Nortel, to lead my team and a team of volu
 
 I had to stand firm and fight for this app. I wish I'd fought more to keep evovling it, because we had so many ideas.
 
-### 2019 - Believe in yourself
+#### 2019 - Believe in yourself
 
 In 2019, I was promoted to Senior Technical Staff Member at IBM. It was a surprise to be nominated. Ultimately, my preceding years had all the ingredients to be appointed. 
 
