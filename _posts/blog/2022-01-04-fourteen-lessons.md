@@ -15,22 +15,22 @@ My friend [Steve](https://www.linkedin.com/in/stevemar/?originalSubdomain=ca) al
 
 TL;DR:
 
-1. Find a healthy place to work
-2. Learn from your teammates
-3. Move around
-4. Celebrate your service
-5. Work on an open source project
-6. Find a supportive manager
-7. Work towards the role you want
-8. Passion for your work gets noticed
-9. Tap into what makes you tick
-10. Give back
-11. Big things can be accomplished by small teams
-12. Believe in yourself, ask difficult questions
-13. Make DEI a mission
-14. Trust is everything
+1. <a href="lesson1">Find a healthy place to work<a>
+2. <a href="lesson2">Learn from your teammates</a>
+3. <a href="lesson3">Move around<a>
+4. <a href="lesson4">Celebrate your service<a>
+5. <a href="lesson5">Work on an open source project<a>
+6. <a href="lesson6">Find a supportive manager<a>
+7. <a href="lesson7">Work towards the role you want<a>
+8. <a href="lesson8">Passion for your work gets noticed<a>
+9. <a href="lesson9">Tap into what makes you tick<a>
+10. <a href="lesson10">Give back<a>
+11. <a href="lesson11">Big things can be accomplished by small teams<a>
+12. <a href="lesson12">Believe in yourself, ask difficult questions<a>
+13. <a href="lesson13">Make DEI a mission<a>
+14. <a href="lesson14">Trust is everything<a>
 
-#### 2008 - Find a healthy place to work
+#### 2008 - <a id="lesson1">Find a healthy place to work</a>
 
 My time at IBM began [when Nortel ended in financial meltdown](https://sites.telfer.uottawa.ca/nortelstudy/files/2014/02/nortel-summary-report-and-executive-summary.pdf). On reflection, I had stayed at Nortel far, far too long. It had given me an incredible start to my career, and an opportunity to live in Canada - but in the end, there were far too many years of very difficult uncertainty. 
 
@@ -42,7 +42,7 @@ In contrast, IBM gave me a shockingly healthy home when I joined. Dignity, clenl
 
 I was really proud and grateful to work at IBM.
 
-#### 2009 - Learn from your team mates
+#### 2009 - <a id="lesson2">Learn from your team mates</a>
 
 My first job at IBM was building a web based UML tool. After almost two decades of writing code in C and Java, working with [Christian](https://www.linkedin.com/in/christianmvogt/) and [Marc](https://www.linkedin.com/in/marc-gobeil/) taught me a lot about programming in JavaScript - writing better code generally. Grateful to have worked with them.
 
