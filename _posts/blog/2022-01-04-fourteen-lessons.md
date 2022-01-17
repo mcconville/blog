@@ -174,9 +174,9 @@ Additionally, in that process, something happened in our management team that sh
 
 My trust was broken, and I think in addition, my belief in IBM suffered. I don't believe that same course of events could happen at Google, with the systems they have in place.
 
-During that tima, I was also surprised that recruiters from the big tech companies were asking me to interview. So with a LOT of practice, preparation, and luck, I was offered a job at Google.
+During that time, I was also surprised that recruiters from the big tech companies were asking me to interview. So with a LOT of practice, preparation, and luck, I was offered a job at Google.
 
 Once again I am grateful to work for a company that is challenging me, and nurturing me. Performance is vital at Google. 
 
-This was a helpful exercise for me ... and a helpful way to set context for the year ahead. 
+This was a helpful exercise for me ... and a helpful way to set context for the year ahead, and what I hope will be a long stint at another great company.
 
