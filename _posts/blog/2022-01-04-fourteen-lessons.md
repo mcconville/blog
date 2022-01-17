@@ -15,20 +15,20 @@ My friend [Steve](https://www.linkedin.com/in/stevemar/?originalSubdomain=ca) al
 
 TL;DR:
 
-1. <a href="lesson1">Find a healthy place to work<a>
-2. <a href="lesson2">Learn from your teammates</a>
-3. <a href="lesson3">Move around<a>
-4. <a href="lesson4">Celebrate your service<a>
-5. <a href="lesson5">Work on an open source project<a>
-6. <a href="lesson6">Find a supportive manager<a>
-7. <a href="lesson7">Work towards the role you want<a>
-8. <a href="lesson8">Passion for your work gets noticed<a>
-9. <a href="lesson9">Tap into what makes you tick<a>
-10. <a href="lesson10">Give back<a>
-11. <a href="lesson11">Big things can be accomplished by small teams<a>
-12. <a href="lesson12">Believe in yourself, ask difficult questions<a>
-13. <a href="lesson13">Make DEI a mission<a>
-14. <a href="lesson14">Trust is everything<a>
+1. <a href="#lesson1">Find a healthy place to work<a>
+2. <a href="#lesson2">Learn from your teammates</a>
+3. <a href="#lesson3">Move around<a>
+4. <a href="#lesson4">Celebrate your service<a>
+5. <a href="#lesson5">Work on an open source project<a>
+6. <a href="#lesson6">Find a supportive manager<a>
+7. <a href="#lesson7">Work towards the role you want<a>
+8. <a href="#lesson8">Passion for your work gets noticed<a>
+9. <a href="#lesson9">Tap into what makes you tick<a>
+10. <a href="#lesson10">Give back<a>
+11. <a href="#lesson11">Big things can be accomplished by small teams<a>
+12. <a href="#lesson12">Believe in yourself, ask difficult questions<a>
+13. <a href="#lesson13">Make DEI a mission<a>
+14. <a href="#lesson14">Trust is everything<a>
 
 #### 2008 - <a id="lesson1">Find a healthy place to work</a>
 
