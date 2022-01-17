@@ -50,7 +50,7 @@ I was really proud of what we built together, and look back at that time fondly.
 
 I am really grateful for all IBM taught me.
 
-#### 2010 - Move around
+#### 2010 - <a id="lesson3">Move around</a>
 
 2010 was a tough year for me both personally and professionally. The part of IBM I worked at was about to be carved off. I didn't know at the time. The net effect was almost empty cubicles around me, which added to the sadness in my personal life at the same time. 
 
@@ -61,7 +61,7 @@ If something doesn't feel right about especially the people you're working with 
 I feel lucky to have been adopted by McQ's team.
 
 
-#### 2011 - Celebrate your service
+#### 2011 - <a id="lesson4">Celebrate your service</a>
 
 [IBM turned 100](https://www.ibm.com/ibm/history/ibm100/us/en/) in 2011, and challenged us to spend a day giving back to non profits in a [celebration of service](https://www.ibm.com/ibm/history/ibm100/us/en/service/). 
 
@@ -75,7 +75,7 @@ I know that it also won donations for the non profit.
 
 Lean into celebrations. 
 
-#### 2012 - Work on an Open Source Project
+#### 2012 - <a id="lesson5">Work on an Open Source Project</a>
 
 Working on [Eclipse Orion](https://projects.eclipse.org/projects/ecd.orion) gave me insight into how open source software is really built, what it really takes to create a community, and how it ends up being used by so many people.
 
@@ -83,7 +83,7 @@ It also gave me an opportunity to grow my front end development skills and front
 
 Really glad to have had this open source experience.
 
-#### 2013 - Find a manager who supports you
+#### 2013 - <a id="lesson6">Find a manager who supports you</a>
 
 There is a greyzone for front end engineers like me. Engineers see me as a designer. Designers see me as an engineer. 
 
@@ -96,7 +96,7 @@ McQ and Simon saw this in me too. They supported my design work, and empowered m
 I'm glad to have experienced so much support from managers in my life, and really want to pay that forward as a manager myself.
 
 
-#### 2014 - Work towards the role you want
+#### 2014 - <a id="lesson7">Work towards the role you want</a>
 
 I think this was the year that IBM eventually took our open source project and turned it into a [Web IDE](https://www.ibm.com/garage/method/practices/code/tool_eclipse_orion_web_ide/), which is still in use today.
 
@@ -104,7 +104,7 @@ It feels amazing to me looking at [this web page](https://cloud.ibm.com/docs/Con
 
 I worked really closely with IBM Design, as a designer. With support from my team, I'd worked in a role that had seemed difficult to move to. 
 
-#### 2015 - Passion for your work gets noticed
+#### 2015 - <a id="lesson8">Passion for your work gets noticed</a>
 
 In 2015 [Uwe](https://www.linkedin.com/in/uwefassnacht/?originalSubdomain=de) saw me present my non profit app at an IBM conference. He asked me immediately after if I'd be open to working as a 'developer advocate' to work with customers, showing them how to build mobile apps on IBM Cloud. It was a dream job - where I could bring all of myself as a designer, a developer, a presenter, a traveler ... and an observor. 
 
@@ -112,7 +112,7 @@ I worked with The Gap, The UK Government, KP, ABC, Cigna, Boeing among others. I
 
 I've been reading, and loving the book ['Unleashed'](https://www.theleadersguide.com) recently. The book emphasizes that leadership is about empowering others. Uwe  unleashed me - it transformed my work, and helped me see the world.
 
-#### 2016 - Tap into what makes you tick
+#### 2016 - <a id="lesson9">Tap into what makes you tick</a>
 
 2016 was the year David Bowie died, and somehow a year of reflection for me, in which I built a [simple NLP app to reflect on Bowie](https://mcconville.github.io/bowie/), and understand why his loss affected me so much. 
 
@@ -122,7 +122,7 @@ This year too, I led a team to create the [Bluemix Mobile app](https://mcconvill
 
 Just sayin'!
 
-#### 2017 - Give back. Take community service seriously
+#### 2017 - <a id="lesson10">Give back. Take community service seriously</a>
 
 For the rest of my life I'll be grateful for the gift of the Corportate Service Corps at IBM. I spent over a month in Brazil, working with a municipality, sharing my design and development skills and experience with a young team there, and opening my eyes to diversity, beauty and struggles in a city in Sao Paulo State. 
 
@@ -130,11 +130,11 @@ I'd been selected because of a history of non profit work.
 
 I made [fantastic friends](https://mcconville.github.io/blog/anton/2017/08/23/my-csc-team-mates) who I still chat with, and hope to see again soon. 
 
-#### 2018 - Big things can be accomplished by small teams
+#### 2018 - <a id="lesson11">Big things can be accomplished by small teams</a>
 
 After my CSC, I accepted the offer of an engineering management role, and was given a team to rebuild. Rebuilding my team was one of the most challenging tasks I've had to do in my career. Setting new standards, and upholding goals, while helping the team grow.
 
-I hadn't been looking for a management role. It turned out to be what I needed to be doing. I had a lot of accrued experience to empower other people with. I realized too that it is what I needed to be doing to grow in myself.
+I hadn't been looking for a management role. It turned out to be what I needed to be doing. I had a lot of accrued experience to empower other people with. I realized too that it is what I needed to be doing to grow in myself. [Liz](https://www.linkedin.com/search/results/all/?keywords=liz%20durst&origin=RICH_QUERY_SUGGESTION&position=0&searchId=c760479a-5e66-431c-956c-9d73e4078555&sid=WFW) maybe saw this in me.
 
 During this year, we also created a new [IBM mobile app](https://mcconville.github.io/pages/detail.html?project=Developer), in just 12 weeks, built on IBM Cloud, and approved as an IBM product. It is still in operation. 
 
@@ -142,7 +142,7 @@ I used scrum training from my time at Nortel, to lead the team and a team of vol
 
 I had to stand firm and fight for this app. I wish I'd fought more to keep evovling it, because we had so many fantastic ideas for it.
 
-#### 2019 - Believe in yourself, ask difficult questions
+#### 2019 - <a id="lesson12">Believe in yourself, ask difficult questions</a>
 
 In 2019, I was promoted to Senior Technical Staff Member at IBM. It was a surprise to be nominated. Ultimately, my preceding years had all the ingredients to be appointed. 
 
@@ -154,7 +154,7 @@ I wish, and think in time, that I would have fought more for things that I belie
 
 I'd never had the ambition or belief to reach that level, yet now I feel I had naturally reached that level - built the experience, worked with respect, and love of what I do. 
 
-#### 2020 - Make DEI a mission 
+#### 2020 - <a id="lesson13">Make DEI a mission</a>
 
 Well, 2020 was a year of shocking loss, with Covid-19 and pointedly in the BLM movement. IBM made it abundantly clear that diversity and inclusion is fundamental to them. 
 
@@ -166,7 +166,7 @@ I want to thank my team - Yan, Max, Anthony, Olaf and Julia for being by my side
 
 Thanks so much for all that support in 2020.
 
-#### 2021 - Trust is everything
+#### 2021 - <a id="lesson14">Trust is everything</a>
 
 Towards the end of 2020, my team was affected by layoffs. Aside from the heartbreak of telling someone they no longer had a job, it brought back echoes of the last years of Nortel. 
 
