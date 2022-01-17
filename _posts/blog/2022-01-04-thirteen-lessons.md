@@ -5,21 +5,40 @@ tagline: "Supporting tagline"
 tags : [work personal]
 ---
 
-2021 sped by for me, in a blur of pandemic uncertainty and as part of the [great resignation](https://hbr.org/2021/09/who-is-driving-the-great-resignation). 
+2021 sped by for me, in a blur of pandemic uncertainty and as one of the [great resignation](https://hbr.org/2021/09/who-is-driving-the-great-resignation) or as Arianna Huffington phrases it the [great re-evaluation](https://twitter.com/ariannahuff/status/1480904081690484744?s=20). I like to think of it that way.
 
 <img src="https://raw.githubusercontent.com/mcconville/blog/gh-pages/images/ibm-google.png" width="100%">
 
-I joined Google in July as an engineering manager, and spent the second half of the year first of all pinching myself that I am working for a company I admire so much, and then deeply immersing in a lot of new information, growing a new team, and adapting to a new, and lovely work culture.  
+I joined Google in July as an engineering manager. I spent the first half of the year, studying and practicing for interviews. I spent the second half of the year recovering from the interviews, pinching myself that I am working for a company I admire so much, and  deeply immersing in a lot of new information, growing a new team, and adapting to a new, and lovely work culture.  
 
-My friend Steve also moved on from IBM in 2021. [He cleverly put together a thread of 18 lessons from 18 years there.](https://twitter.com/stevebot/status/1465721563303624715?s=20) Inspired by him, I thought I'd reflect on thirteen career lessons from my thirteen years at IBM.
+My friend [Steve](https://www.linkedin.com/in/stevemar/?originalSubdomain=ca) also moved on from IBM in 2021. [He cleverly put together a thread of 16 lessons from 16 years there.](https://twitter.com/stevebot/status/1465721563303624715?s=20) Inspired by him, and in the spirit of 'the great re-evaluation', I thought I'd reflect on fourteen career lessons from my fourteen years at IBM:
 
-#### 2008 - Try not to settle 
+TL;DR:
 
-My time at IBM began when Nortel ended in financial meltdown. when I look back, I had stayed at Nortel far, far too long. It had given me a wonderful start, and an opportunity to live in Canada - but there were far too many years of very difficult uncertainty. 
+1. Find a healthy place to work
+2. Learn from your teammates
+3. Move around
+4. Celebrate your service
+5. Work on an open source project
+6. Find a supportive manager
+7. Work towards the role you want
+8. Passion for your work gets noticed
+9. Tap into what makes you tick
+10. Give back
+11. Big things can be accomplished by small teams
+12. Believe in yourself, ask difficult questions
+13. Make DEI a mission
+14. Trust is everything
 
-As well as the constant threat of job loss, the ceiling of our office literally had leaks. Garbage had stopped being collected at Nortel in my last year there. My gratitude, loyalty and sometimes fear of the unknown ate up prime time that could have been spent in a healthier place for me and my family.
+#### 2008 - Find a healthy place to work
 
-IBM gave me a shockingly healthy home when I joined. Dignity, clenliness, snacks, respect, peace. It felt like another world. [Emeka](https://www.linkedin.com/in/emeka-nwafor/) recommended me, and [Danny](https://www.linkedin.com/in/danny-yang-07b08617/) made it a more fun place to be in those early days.
+My time at IBM began [when Nortel ended in financial meltdown](https://sites.telfer.uottawa.ca/nortelstudy/files/2014/02/nortel-summary-report-and-executive-summary.pdf). On reflection, I had stayed at Nortel far, far too long. It had given me an incredible start to my career, and an opportunity to live in Canada - but in the end, there were far too many years of very difficult uncertainty. 
+
+For the last few years, there was a constant threat of job loss. The actual ceiling of our office was leaking, with a bucket catching water. Garbage had stopped being collected regularly, at Nortel in my last year there. 
+
+My gratitude, loyalty and sometimes fear of the unknown ate up some prime years that could have been spent in a healthier place for me and my family. It was complex, but I promised myself to not lot that happen again.
+
+In contrast, IBM gave me a shockingly healthy home when I joined. Dignity, clenliness, snacks, respect, peace. It felt like another world. [Emeka](https://www.linkedin.com/in/emeka-nwafor/) recommended me, and [Danny](https://www.linkedin.com/in/danny-yang-07b08617/) made it a more fun place to be in those early days.
 
 I was really proud and grateful to work at IBM.
 
@@ -60,7 +79,7 @@ Lean into celebrations.
 
 Working on [Eclipse Orion](https://projects.eclipse.org/projects/ecd.orion) gave me insight into how open source software is really built, what it really takes to create a community, and how it ends up being used by so many people.
 
-It also gave me an opportunity to grow my front end development skills and front end design.
+It also gave me an opportunity to grow my front end development skills and front end design. Including traininh and immersion into [visual design](https://mcconville.github.io/orion/orion.html).
 
 Really glad to have had this open source experience.
 
@@ -70,66 +89,78 @@ There is a greyzone for front end engineers like me. Engineers see me as a desig
 
 Regardless of where others see me, I've delivered interface after interface. Listening, observing, empathizing. Immersing in the rules of the web, of iOS and respecting the human interaction models they put in place.
 
-I have a hard earned engineering degree. And I've paid from my own pocket to study visual and UX design. I love learning, i love design.
+I have a hard earned engineering degree. I've paid from my own pocket to study visual and UX design. I love learning, I love design.
 
 McQ and Simon saw this in me too. They supported my design work, and empowered me to work alongside IBM Design. Simon used to tell me that he preferred my work. They empowered me. 
 
 I'm glad to have experienced so much support from managers in my life, and really want to pay that forward as a manager myself.
 
 
-#### 2014 - Keep making goals for yourself
+#### 2014 - Work towards the role you want
 
-I think this was the year that IBM eventually took our open source project and turned it into a [Web IDE](https://projects.eclipse.org/projects/ecd.orion), which is still in use today.
+I think this was the year that IBM eventually took our open source project and turned it into a [Web IDE](https://www.ibm.com/garage/method/practices/code/tool_eclipse_orion_web_ide/), which is still in use today.
 
-It feels amazing to me looking at that web page and realizing that I led design of that. I drew the mockups, reviewed them, tested them, coded aspects of the front end. 
+It feels amazing to me looking at [this web page](https://cloud.ibm.com/docs/ContinuousDelivery?topic=ContinuousDelivery-web_ide) and realize that I led design of that tool. I drew the mockups, reviewed them, tested them, coded aspects of the front end. 
 
 I worked really closely with IBM Design, as a designer. With support from my team, I'd worked in a role that had seemed difficult to move to. 
 
-#### 2015 - Never stop experimenting
+#### 2015 - Passion for your work gets noticed
 
-In 2015 Uwe saw me present my non profit app at an IBM conference. He asked me immediately after if I'd be open to working as a 'developer advocate' to work with customers, showing them how to build mobile apps on IBM Cloud. It was a dream job - where I could bring all of myself as a designer, a developer, a presenter, a traveler ... and an observor. 
+In 2015 [Uwe](https://www.linkedin.com/in/uwefassnacht/?originalSubdomain=de) saw me present my non profit app at an IBM conference. He asked me immediately after if I'd be open to working as a 'developer advocate' to work with customers, showing them how to build mobile apps on IBM Cloud. It was a dream job - where I could bring all of myself as a designer, a developer, a presenter, a traveler ... and an observor. 
 
 I worked with The Gap, The UK Government, KP, ABC, Cigna, Boeing among others. I met developers in their labs, all over the US. It was enlightening, hearing about their use cases, working on studies, and prototyping apps with them.
 
+I've been reading, and loving the book ['Unleashed'](https://www.theleadersguide.com) recently. The book emphasizes that leadership is about empowering others. Uwe  unleashed me - it transformed my work, and helped me see the world.
+
 #### 2016 - Tap into what makes you tick
 
-2016 was the year David Bowie died, and somehow a year of reflection for me, in which I built a simple NLP app to reflect on Bowie, and understand why his loss affected me so much. It was in the things that made me tick - words, songs, creativity and design. It turned out that my project was an inspiration to others, and helped me travel to present it to the tech community and to businesses around the world.
+2016 was the year David Bowie died, and somehow a year of reflection for me, in which I built a [simple NLP app to reflect on Bowie](https://mcconville.github.io/bowie/), and understand why his loss affected me so much. 
 
-This year too, I led a team to create the [Bluemix Mobile app](https://mcconville.github.io/pages/detail.html?project=Pulse), almost as a guerilla project within IBM. At the time, no other competitor had a mobile app for thier cloud. This app was among the most beautiful apps I've worked on ... yet the leadership of IBM Cloud deprioritized it. Today, IBM does not have a mobile cloud app, yet Amazon, Google and MS do.
+It was in the things that made me tick - words, songs, creativity and design. It turned out that my project was an inspiration to others too, and helped me travel to present it to the tech community and to businesses around the world.
 
-#### 2017 - Take community service seriously
+This year too, I led a team to create the [Bluemix Mobile app](https://mcconville.github.io/pages/detail.html?project=Pulse), almost as a guerilla project within IBM. At the time, no other competitor had a mobile app for thier cloud. This app was among the most beautiful apps I've worked on ... yet the leadership of IBM Cloud deprioritized it. Today, IBM does not have a mobile cloud app, yet Amazon, Google and MS do. 
 
-For the rest of my life I'll be grateful for the gift of the Corportate Service Corps at IBM. I spent over a month in Brazil, working with a municipality, sharing my design and development skills and experience with a team there, and opening my eyes to diversity, beauty and struggles in a city in Sao Paulo State. I also made [fantastic friends](https://mcconville.github.io/blog/anton/2017/08/23/my-csc-team-mates) who I still chat with, and hope to see again soon. 
+Just sayin'!
 
-#### 2018 - Focused teams can move mountains
+#### 2017 - Give back. Take community service seriously
+
+For the rest of my life I'll be grateful for the gift of the Corportate Service Corps at IBM. I spent over a month in Brazil, working with a municipality, sharing my design and development skills and experience with a young team there, and opening my eyes to diversity, beauty and struggles in a city in Sao Paulo State. 
+
+I'd been selected because of a history of non profit work.
+
+I made [fantastic friends](https://mcconville.github.io/blog/anton/2017/08/23/my-csc-team-mates) who I still chat with, and hope to see again soon. 
+
+#### 2018 - Big things can be accomplished by small teams
 
 After my CSC, I accepted the offer of an engineering management role, and was given a team to rebuild. Rebuilding my team was one of the most challenging tasks I've had to do in my career. Setting new standards, and upholding goals, while helping the team grow.
 
 I hadn't been looking for a management role. It turned out to be what I needed to be doing. I had a lot of accrued experience to empower other people with. I realized too that it is what I needed to be doing to grow in myself.
 
-During this year, we also created a new IBM mobile app, in just 12 weeks, built on IBM Cloud, and approved as an IBM product. It is still in operation. 
+During this year, we also created a new [IBM mobile app](https://mcconville.github.io/pages/detail.html?project=Developer), in just 12 weeks, built on IBM Cloud, and approved as an IBM product. It is still in operation. 
 
-I used scrum training from my time at Nortel, to lead my team and a team of volunteers from five continents in building this app. They stepped up - and showed me how possible it is to build things when there is a clear design, and clear focus. 
+I used scrum training from my time at Nortel, to lead the team and a team of volunteers from five continents, in building this app. They stepped up - and showed me how possible it is to build things when there is a clear design, and clear focus. 
 
-I had to stand firm and fight for this app. I wish I'd fought more to keep evovling it, because we had so many ideas.
+I had to stand firm and fight for this app. I wish I'd fought more to keep evovling it, because we had so many fantastic ideas for it.
 
-#### 2019 - Believe in yourself
+#### 2019 - Believe in yourself, ask difficult questions
 
 In 2019, I was promoted to Senior Technical Staff Member at IBM. It was a surprise to be nominated. Ultimately, my preceding years had all the ingredients to be appointed. 
 
-I'm grateful to Amol for recognizing me, to Brad for coaching me, and to Steve for showing me the way, and for being someone at work I could talk entirely openly with. Going through this process was transformative for me. I owe you.
+I'm grateful to [Amol](https://www.linkedin.com/in/mramoljadhav/) for recognizing me, to [Brad](https://www.linkedin.com/in/brad-topol-6273536/) for coaching me, and to [Steve](https://www.linkedin.com/in/stevemar/?originalSubdomain=ca) for showing me the way, and for being someone at work I could talk entirely openly with. Going through this process was transformative for me. I owe you.
 
-Working as an STSM gave me permission to think beyond my team, my org, and to think about the right thing for the company. I work that way still, even new to a different company now. 
+Working as an STSM gave me permission to think beyond my team, my org, and to think about the right thing for the company. I work that way now, even though I'm new to a different company. 
 
 I wish, and think in time, that I would have fought more for things that I believed in. Becoming a STSM gave me confidence to ask awkward questions ... questions that absolutely should have been asked. We should all ask the difficult questions.
 
 I'd never had the ambition or belief to reach that level, yet now I feel I had naturally reached that level - built the experience, worked with respect, and love of what I do. 
 
-#### 2020 - Make DEI a personal area of growth 
+#### 2020 - Make DEI a mission 
 
-Well, 2020 was a year of shocking loss, with Covid-19 and pointedly in the BLM movement. IBM made it abundantly clear that diversity and inclusion is fundamental to them. I was proud to be associated with their stand. I was especially grateful for Willie's leadership and personal advice in this. 
+Well, 2020 was a year of shocking loss, with Covid-19 and pointedly in the BLM movement. IBM made it abundantly clear that diversity and inclusion is fundamental to them. 
 
-I'll spend the rest of my life trying to improve and grow in DEI - it is my priority area of growth.
+I was proud to be associated with their stand. I was especially grateful for [Willie](https://www.linkedin.com/search/results/all/?keywords=willie%20tejada&origin=RICH_QUERY_SUGGESTION&position=1&searchId=5c2b158c-39e7-4a71-a796-39d0ef8e3d67&sid=3Up)'s leadership and personal advice in this. 
+
+I'll spend the rest of my life trying to improve and grow in DEI - it is my priority area of growth, and an area that Google is continually pushing me to grow in - for which I'm really grateful.
 
 I want to thank my team - Yan, Max, Anthony, Olaf and Julia for being by my side in 2020. You made a big difference to me. 
 
@@ -139,9 +170,13 @@ Thanks so much for all that support in 2020.
 
 Towards the end of 2020, my team was affected by layoffs. Aside from the heartbreak of telling someone they no longer had a job, it brought back echoes of the last years of Nortel. 
 
-Additionally, in that process, something happened in our management team that shattered my trust, pretty much irrepairably. From the book 'Unleashed'
+Additionally, in that process, something happened in our management team that shattered my trust, pretty much irrepairably. From reading the 'Unleashed' book - I realized this. [Everything starts with trust](https://hbr.org/2020/05/begin-with-trust).
 
-During that tima, I was also surprised that recruiters from the big tech companies were asking me to interview. So with practice and preparation, I was offered a job at Google.
+My trust was broken, and I think in addition, my belief in IBM suffered. I don't believe that same course of events could happen at Google, with the systems they have in place.
 
-Once again I am grateful to work for a company that is challenging me, and nurturing me. Performance is vital at Google. I feel at home there. 
+During that tima, I was also surprised that recruiters from the big tech companies were asking me to interview. So with a LOT of practice, preparation, and luck, I was offered a job at Google.
+
+Once again I am grateful to work for a company that is challenging me, and nurturing me. Performance is vital at Google. 
+
+This was a helpful exercise for me ... and a helpful way to set context for the year ahead. 
 
