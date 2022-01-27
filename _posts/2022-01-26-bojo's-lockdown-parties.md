@@ -1,3 +1,10 @@
+---
+layout: post
+category : anton
+tagline: "Supporting tagline"
+tags : [personal]
+---
+
 It's rare that I write about politics, but the news of [lockdown parties at No.10 Downing Street](https://www.theguardian.com/politics/2022/jan/24/a-full-list-of-alleged-government-covid-rule-busting-parties) really caught my attention. My post is not super informed. I am no wise sage of politics and history. I just wanted to process some personal thoughts to look back on one day
 
 <img src="https://raw.githubusercontent.com/mcconville/blog/gh-pages/images/partylockdowns%402x.png" width="100%">
