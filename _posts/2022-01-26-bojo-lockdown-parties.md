@@ -19,9 +19,9 @@ Large numbers of people have been doing their best to stay put, not mingle, not 
 
 To me, this news story re-emphasizes that standards, and character have dropped in national and global leadership. Maybe as a child I just revered politcal leaders more, or maybe we just hear more about lack of standards these days. 
 
-What disappoints me most of all is that there are not many inspiring leaders these days - and I think in part because of that - we are in this viscious circle of lockdowns, with little imagination to break the patterns. Surely we can't keep doing this for another few years?
+What disappoints me most of all is that there are not many inspiring leaders these days - and I think in part because of that - we are in this viscious circle of lockdowns, with little imagination to break the patterns. I am pro-science, and tripple vaccinated ( and grateful ). But surely we can't keep locking down for year on end.
 
-We're all human, I guess. All of us need connection. None of us can keep locked down forever. Especially when it is hard to escape the stress of work.
+I get it. We're all human. All of us need connection. None of us can keep locked down forever. Especially when it is hard to escape the stress of work. However, the government really should set an example.
 
 ### Animal Farm
 
