@@ -21,7 +21,7 @@ To me, this news story re-emphasizes that standards, and character have dropped 
 
 What disappoints me most of all is that there are not many inspiring leaders these days - and I think in part because of that - we are in this viscious circle of lockdowns, with little imagination to break the patterns. I am pro-science, and tripple vaccinated ( and grateful ). But surely we can't keep locking down for year on end.
 
-I get it. We're all human. All of us need connection. None of us can keep locked down forever. Especially when it is hard to escape the stress of work. It's hard, but if they set rules, the government really should set an example of keeping them. I don't even get the feeling they even care.
+I get it. We're all human. All of us need connection. None of us can keep locked down forever. Especially when it is hard to escape the stress of work. It's hard, but if they set rules, the government really should set an example of keeping them. I don't get the feeling they really care.
 
 ### Animal Farm
 
