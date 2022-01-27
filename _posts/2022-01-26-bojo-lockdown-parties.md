@@ -23,7 +23,7 @@ What disappoints me most of all is that there are not many inspiring leaders the
 
 We're all human, I guess. All of us need connection. None of us can keep locked down forever. Especially when it is hard to escape the stress of work.
 
-#### Animal Farm
+### Animal Farm
 
 One of the books that really made me think more about literature and politics was [George Orwell's Animal Farm](https://en.wikipedia.org/wiki/Animal_Farm). In the book, the farm animals, led by pigs, revolt to overthrow a terrible owner/farmer, but the pigs, in their privilege begin to evolve the rules in their favour, from 'all animals are equal' to 'some animals are more equal than others'. 
 
