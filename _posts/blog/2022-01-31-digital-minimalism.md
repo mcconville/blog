@@ -24,13 +24,13 @@ Then, after the 30 days of detoxing, reintroduce technology/apps again, but with
 
 One more reason to try a digital detox presented itself to me this weekend.  
 
-As I write this post, there is ( what began as ) a trucker protest in Ottawa. I live right in the heart of the city, and the noise is extreme, with horns honking. I need it to be quiet to work. Thankfully I have noise cancelling earbuds, which are a god send.
+As I write this post, there is ( what began as ) a trucker protest in Ottawa. I live right in the heart of the city, and the noise is extreme, with horns honking. I need it to be quiet to work. Thankfully I have noise cancelling earbuds, which were a blessing this weekend.
 
-If you were to ask me what the goal of this protest is, I wouldn't be able to tell you. Despite the fact it is on my doorstep. It seems a catch all, for a set of people who feel they are taking over the city, and granting us 'freedom'. 
+If you were to ask me what the goal of this protest is, I wouldn't be able to tell you - despite the fact it is on my doorstep. It seems a catch all, for a set of people who feel they are taking over the city, and granting us 'freedom'. 
 
-I've kind celebrated my freedom to live in Ottawa every day, by running by the river and parliament, walking along the streets and market for groceries, sitting on patios, taking in the musuems and the arts centre. I love it here. I don't need random truck driving, disrespectful, noisy, oppressive people to set me free. Freedom, and peace are what I chose to live here for.
+I've kinda celebrated my freedom in Ottawa every day, by running by the river and parliament, walking along the streets and market for groceries, sitting on patios, taking in the musuems and the arts centre. I love it here. I don't need random truck driving, disrespectful, noisy, oppressive people to set me free. Freedom, and peace are what I chose to live here for.
 
-My Twitter stream is full of opinion, snapshot, counter opinion on all of this. I am no expert on the pandemic, or on government. I feel let down by my local leaders in what they've allowed to happen here in Ottawa this weekend.
+My Twitter stream is full of opinion, snapshot, counter opinion on all of this. I am no expert on the pandemic, or on government. I feel let down by my local leaders in what they've allowed to happen here in Ottawa this weekend. I am fed up with the polarity, and lack of care for topics that I think really would improve freedom here in Canada for many communities.
 
 When I first joined Twitter 13 years ago, it was inspiring. I followed developers and designers, and learned something practically every time I read it. It was free of adverts. I was blown away by it, and a fan of the founders. If I could have made it happen, I'd have loved to have worked for Twitter, I was so inspired by it.
 
