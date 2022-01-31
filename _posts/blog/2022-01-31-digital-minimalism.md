@@ -63,6 +63,8 @@ I came across this article the other day about the [number of original scripted 
 
 ### Hopes
 
+My digital detox begins tomorrow. Feb 1.
+
 I recognize that I am wasting time looking at Instagram, and Twitter these days and want to put my time to better use. This is an experiment to see what happens. 
 
 I might still log into Twitter desktop now and then to tweet a blog post - I'll see - I have some half written posts about interviewing, and about some lyric studies. I have a list of things to blog about this year.
